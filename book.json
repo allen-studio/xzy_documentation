@@ -1,3 +1,3 @@
 {
-  "plugins": ["intopic-toc"]
+  "plugins": ["expandable-chapters","anchor-navigation-ex"]
 }
