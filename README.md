@@ -1,15 +1,5 @@
 # 销赞云营销业务管理系统
 
-## 简介
+销赞云营销业务管理系统对传统广告营销行业的线下微信、电话、会议的项目沟通管理方式进行数字化升级，从传统营销业务流切入，客户数据、需求数据、项目数据、内容数据全部数字化，提升营销项目的协同及管理效率，同时沉淀营销数字资产，辅助企业经营决策，降本增收。
 
-#### 一、牛逼
-
-登录(https://www.xiaozancloud.com/agent/#/login)，点击【[开放平台](https://www.xiaozancloud.com/agent/#/developPlatform)】菜单，阅读并勾选协议 -【确定】进行开通，开通成功后系统会分配对应的ClientID和ClientSecret。
-
-
-
-
-
-
-
-
+![img](https://dm-1303208826.cos.ap-guangzhou.myqcloud.com/chm/readme.png)
